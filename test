@@ -120,7 +120,6 @@ namespace Stealer
         }
     }
 
-    // ★★★ 메인에서 이렇게 호출 ★★★
     class Program
     {
         static async Task Main(string[] args)
